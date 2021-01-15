@@ -1,0 +1,1 @@
+YouTube clone using Express, TypeScript, PostgreSQL, React, Redux
